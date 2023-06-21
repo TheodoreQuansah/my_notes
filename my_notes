@@ -1,0 +1,6 @@
+# My DS Notes
+This is a repository for my notes
+~ = home directory
+*.csv ignore .csv files
+.gitignore = ask not to track
+git commit -m 'preferred text' 
